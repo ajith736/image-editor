@@ -1,0 +1,20 @@
+C:\Users\ajith\source\repos\project-1\project-1\bin\Debug\project-1.exe.config
+C:\Users\ajith\source\repos\project-1\project-1\bin\Debug\project-1.exe
+C:\Users\ajith\source\repos\project-1\project-1\bin\Debug\project-1.pdb
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project-1.csproj.AssemblyReference.cache
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project_1.Form1.resources
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project-1.csproj.GenerateResource.cache
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project-1.csproj.CoreCompileInputs.cache
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project-1.exe
+C:\Users\ajith\source\repos\project-1\project-1\obj\Debug\project-1.pdb
+C:\Users\ajith\codes\c# project\project-1\bin\Debug\project-1.exe.config
+C:\Users\ajith\codes\c# project\project-1\bin\Debug\project-1.exe
+C:\Users\ajith\codes\c# project\project-1\bin\Debug\project-1.pdb
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project-1.csproj.AssemblyReference.cache
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project_1.Form1.resources
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project_1.Properties.Resources.resources
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project-1.csproj.GenerateResource.cache
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project-1.csproj.CoreCompileInputs.cache
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project-1.exe
+C:\Users\ajith\codes\c# project\project-1\obj\Debug\project-1.pdb
